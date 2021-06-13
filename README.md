@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # parcel-project-template
 
 ## Зависимости
